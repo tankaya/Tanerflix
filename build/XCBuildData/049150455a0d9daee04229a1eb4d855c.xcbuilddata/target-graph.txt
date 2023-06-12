@@ -1,0 +1,12 @@
+Target dependency graph (5 targets)
+SDWebImage in SDWebImage, no dependencies
+SDWebImageMapKit in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageMapKit in SDWebImage, depends on:
+SDWebImageMapKit in SDWebImage (explicit)
+SDWebImage in SDWebImage (explicit)
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+Tanerflixx in Tanerflixx, depends on:
+SDWebImageMapKit in SDWebImage (explicit)
+SDWebImage in SDWebImage (explicit)
